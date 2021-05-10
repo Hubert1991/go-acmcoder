@@ -47,4 +47,8 @@ func main() {
 | 0011 | [约会](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=1530&konwledgeId=134) | 数学          | 1    | 完成     |
 | 0012 | [研究生考试](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3007&konwledgeId=134) | 数学          | 2    | 完成     |
 | 0013 | [行编辑器](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3008&konwledgeId=134) | 栈            | 2    | 完成     |
+| 0014 | [接金币](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3009&konwledgeId=134) | 动态规划      | 2    | 完成     |
+| 0015 | [文艺青年爱文学](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3010&konwledgeId=134) | 动态规划      | 2    | 完成     |
+| 0016 | [下起楼来我最快](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3011&konwledgeId=134) | 数学          | 2    | 完成     |
+| 0017 | [回文串](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3013&konwledgeId=134) | 字符串        | 2    | 完成     |
 
