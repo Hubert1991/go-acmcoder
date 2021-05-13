@@ -51,4 +51,10 @@ func main() {
 | 0015 | [文艺青年爱文学](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3010&konwledgeId=134) | 动态规划      | 2    | 完成     |
 | 0016 | [下起楼来我最快](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3011&konwledgeId=134) | 数学          | 2    | 完成     |
 | 0017 | [回文串](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3013&konwledgeId=134) | 字符串        | 2    | 完成     |
+| 0018 | [小赛的升级之路](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3023&konwledgeId=134) | 数学          | 4    | 完成     |
+| 0019 | [装载乘客](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3017&konwledgeId=134) | 数组          | 2    | 完成     |
+| 0020 | [搬圆桌](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3012&konwledgeId=134) | 几何          | 2    | 完成     |
+| 0021 | [喷水装置](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=1651&konwledgeId=134) | 几何          | 3    | 完成     |
+| 0022 | [投篮游戏](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=3016&konwledgeId=134) | 数组          | 2    | 完成     |
+| 0023 | [三分线](https://exercise.acmcoder.com/online/online_judge_ques?ques_id=1531&konwledgeId=134) |               | 2    |          |
 
